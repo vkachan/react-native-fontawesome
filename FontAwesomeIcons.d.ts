@@ -224,6 +224,7 @@ declare const Icons: {
     cloudDownloadAlt: string;
     cloudUploadAlt: string;
     cloudscale: string;
+    cloudSun: string,
     cloudsmith: string;
     cloudversify: string;
     cocktail: string;

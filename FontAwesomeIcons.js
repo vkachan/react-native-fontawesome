@@ -230,6 +230,7 @@ const Icons = {
   cloudDownloadAlt: "\uf381",
   cloudUploadAlt: "\uf382",
   cloudscale: "\uf383",
+  cloudSun: "\uf6c4",
   cloudsmith: "\uf384",
   cloudversify: "\uf385",
   cocktail: "\uf561",
